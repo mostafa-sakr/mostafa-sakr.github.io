@@ -2,5 +2,5 @@ layout: page
 title: "About"
 permalink: /about/
 
-# About!
+## About!
 This is also a placeholder!
