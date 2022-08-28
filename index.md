@@ -5,6 +5,7 @@ How to add another page here?
 
 [About](https://www.naviiu.com/about)
 
+## Posts List
 <ul>
   {% for post in site.posts %}
     <li>
